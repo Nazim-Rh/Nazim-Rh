@@ -14,7 +14,7 @@
       <img src="assets/verdict.png" width="120" align="left">
       <h4>Verdict</h4>
     </a>
-    <p>A desktop app for quickly classifying astronomical detections as real, fake, or uncertain by eye, from FITS cutouts centred on each source with adaptive scaling. Also built in tool for crossmatching catalogues. Built with Python.</p>
+    <p>A desktop app for quickly classifying astronomical detections as real, fake, or uncertain by eye, from FITS cutouts centred on each source with adaptive scaling. Also includes a built in tool for crossmatching catalogues. Built with Python.</p>
     <br clear="left">
   </li>
   <li>
