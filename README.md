@@ -8,13 +8,13 @@
     <br clear="left">
   </li>
   <li>
-    <img src="assets/Verdict.png" width="80" align="left">
+    <img src="assets/verdict.png" width="80" align="left">
     <h4>Verdict</h4>
     <p>A desktop app for quickly classifying astronomical detections as real, fake, or uncertain by eye, from FITS cutouts centred on each source. Built with Python.</p>
     <br clear="left">
   </li>
   <li>
-    <img src="assets/Najma.png" width="80" align="left">
+    <img src="assets/najma.png" width="80" align="left">
     <h4>Najma</h4>
     <p>A desktop pipeline for measuring star formation rates and stellar population ages from two-band UV/optical imaging (built around AstroSat UVIT data). Built with Python.</p>
     <br clear="left">
