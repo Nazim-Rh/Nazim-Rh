@@ -10,7 +10,7 @@
     <br clear="left">
   </li>
   <li>
-    <a href="https://github.com/Nazim-Rh/Verdict">
+    <a href="https://github.com/Nazim-Rh/verdict">
       <img src="assets/Verdict.png" width="80" align="left">
       <h4>Verdict</h4>
     </a>
@@ -18,7 +18,7 @@
     <br clear="left">
   </li>
   <li>
-    <a href="https://github.com/Nazim-Rh/Najma">
+    <a href="https://github.com/Nazim-Rh/najma">
       <img src="assets/Najma.png" width="80" align="left">
       <h4>Najma</h4>
     </a>
