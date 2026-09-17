@@ -6,7 +6,7 @@
       <img src="assets/N-Light.png" width="120" align="left">
       <h4>N-Light</h4>
     </a>
-    <p>An interactive GUI that wraps AstroSat LAXPC (Format-B) data reduction and light curve inspection drives laxpcsoft and HEASoft's <code>lcurve</code> to produce a combined lightcurve plus per-GTI plots, along with an interactive window to inspect the lightcurve and slice its features. Built with Python (PyQt5).</p>
+    <p>An interactive GUI that wraps AstroSat LAXPC data reduction and light curve inspection drives laxpcsoft and HEASoft's <code>lcurve</code> to produce a combined lightcurve plus per-GTI plots, along with an interactive window to inspect the lightcurve and slice its features. Built with Python.</p>
     <br clear="left">
   </li>
   <li>
